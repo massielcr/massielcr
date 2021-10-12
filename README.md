@@ -1,1 +1,2 @@
-Hi, I’m Massiel 👋 Software Developer :sunglasses:
+👋 Hi, I’m Massiel  
+:sunglasses: Software Developer 

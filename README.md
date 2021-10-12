@@ -4,4 +4,4 @@
 
 :earth_americas: Languages: C#, VB, SQL, Javascript
 
-:heart: Hobbies: Music 
+:heart: Hobbies: Going to the Beach, Music, Movies

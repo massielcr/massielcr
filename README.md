@@ -1,5 +1,5 @@
 :raising_hand: Hi there! I’m Massiel  
 
-:computer: Software Developer
+:computer: Software Engineer
 
-:earth_americas: Languages: C#, VB, SQL, Javascript
+:earth_americas: Languages: C#, VB, SQL, LINQ, Javascript, HTML

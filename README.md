@@ -1,3 +1,3 @@
-"I have no special talent. I am only passionately curious."
-Albert Einstein
-👩🏻‍💻✨
+Hi there! I'm Massiel 👩🏻‍💻✨
+Software Developer
+Languages: C#, Javascript, SQL

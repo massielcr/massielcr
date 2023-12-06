@@ -1,5 +1,5 @@
-Hi there! I'm Massiel 👩🏻‍💻✨
+Hi there! I'm Massiel ✨
 
-Software Developer
+Software Developer 👩🏻‍💻
 
-Languages: C#, Javascript, SQL
+Languages: C#, Javascript, SQL✅
